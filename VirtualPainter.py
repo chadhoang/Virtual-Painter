@@ -17,10 +17,11 @@ TAB_WIDTH = 80
 def main():
     # Import header images
     my_list = os.listdir("Header")
+    print(my_list)
     overlay_list = []
     for imPath in my_list:
         overlay_list.append(cv2.imread(f'{"Header"}/{imPath}'))
-
+     
     # Default header image
     header = overlay_list[11]
 
