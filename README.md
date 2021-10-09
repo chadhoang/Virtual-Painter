@@ -1,1 +1,1 @@
-# Visual Painter
+# Virtual Painter
