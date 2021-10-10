@@ -1,4 +1,5 @@
 # Virtual Painter
+![hi](img/hi.png)
 ## About 
 Virtual Painter is a python application that allows you to make illustrations by simply using your computer's camera and your hands. This application primarily uses OpenCV to accomplish this, which is an open source computer vision library.
 
